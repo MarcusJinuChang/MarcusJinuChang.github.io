@@ -1,0 +1,8 @@
+# PLACEHOLDER - not yet the real file.
+# docs/ROADMAP.md (After it's live, item 5) says app-ads.txt must live at this
+# site's root but does not give its line. Replace this file with the exact
+# line AdMob shows under Apps > NoteCode > app-ads.txt once the app is linked.
+# For Google it has the form below; the publisher id in the app's ad config
+# (NoteCode/Pro/Ads/AdConfig.swift) is pub-4284419042550157. Check it against
+# AdMob before uncommenting:
+# google.com, pub-4284419042550157, DIRECT, f08c47fec0942fa0
