@@ -1,6 +1,6 @@
 # NoteCode Privacy Policy
 
-_Last updated: 11/3/26_
+_Last updated: 11/17/26_
 
 NoteCode is a note-taking app for computer science coursework. It has no
 account and no analytics, and your notes are never uploaded. Three things do
@@ -87,6 +87,15 @@ receive it. Google's own policy describes it
   hands the file to the app or place you pick in the system's share sheet.
 - **Subscriptions and tips.** Purchases are handled by Apple. We receive
   nothing about you from them.
+
+## NoteCode built from its source code
+
+NoteCode's source is published as an open-source edition, without Pro, ads,
+purchases or the run service. A copy built from that source sends nothing of
+its own: of the things above, only links you tap, Share, Export and Print, and
+a compiler site you choose to open from Run apply to it. Someone who builds
+and distributes their own copy is responsible for its privacy policy; this
+page covers NoteCode as published on the App Store.
 
 ## Photos and files
 
